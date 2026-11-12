@@ -199,4 +199,4 @@ This repository serves as the official landing page for NBA 2K19. The software i
 **Get the most recent version of NBA 2K19 today!**
 
 ---
-**Last updated:** 2026-11-12 14:49:21 UTC
+**Last updated:** 2026-11-12 21:44:47 UTC
